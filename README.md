@@ -24,7 +24,7 @@ EMAIL_USER=email of the shop
 EMAIL_PASS=password
 ```
 
-All emails send to [admin@syntrade-kazan.msk0.ru] only. You can change it on [route.ts] file
+All emails send to [admin@syntrade-kazan.msk0.ru] only. You can change it on [`route.ts`] file
 
 ## Goods
 
