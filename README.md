@@ -8,10 +8,14 @@ First, run the development server:
 npm i
 # or
 yarn install
+
 # Than start the server
 npm run dev
 # or
 yarn dev
+
+# For build use 
+next build
 ```
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
