@@ -24,11 +24,11 @@ EMAIL_USER=email of the shop
 EMAIL_PASS=password
 ```
 
-All emails send to [admin@syntrade-kazan.msk0.ru] only. You can change it on [`route.ts`] file
+All emails send to `admin@syntrade-kazan.msk0.ru` only. You can change it on `route.ts` file
 
 ## Goods
 
-You can find all goods data in the [data/products.json] and images in global folder [public/images]
+You can find all goods data in the `data/products.json` and images in global folder `public/images`
 
 ## Learn More about next and deployment
 
